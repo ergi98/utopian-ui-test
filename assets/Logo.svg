@@ -1,0 +1,6 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="80" height="52" viewBox="0 0 80 52">
+  <text id="TNT" transform="translate(0 41)" font-size="40" font-family="Assistant-ExtraBold, Assistant" font-weight="800">
+    <tspan x="0" y="0" letter-spacing="-0.095em">TN</tspan>
+    <tspan y="0">T</tspan>
+  </text>
+</svg>
